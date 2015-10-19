@@ -1,0 +1,6 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <tech-list>
+        <tech>android.nfc.tech.MifareClassic</tech>
+<!--         <tech>android.nfc.tech.NfcV</tech> -->
+    </tech-list>
+</resources> <!-- From: file:/home/sorrentinos/programmazione/Android/StudioProjects/NFCClient/app/src/main/res/xml/filter_nfc.xml -->

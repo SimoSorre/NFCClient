@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sorrentinos/programmazione/Android/StudioProjects/NFCClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/sorrentinos/programmazione/Android/StudioProjects/NFCClient/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-de78bcc349356f3ac8128332477368fe2c341f0e.jar" />
+    </item>
+    <item
+        jar="/home/sorrentinos/programmazione/Android/StudioProjects/NFCClient/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/sorrentinos/programmazione/Android/StudioProjects/NFCClient/app/build/intermediates/pre-dexed/debug/classes-8be4f1bade02dbf0e6ec67cbbfbf326583b057e1.jar" />
+    </item>
+    <item
+        jar="/home/sorrentinos/programmazione/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/sorrentinos/programmazione/Android/StudioProjects/NFCClient/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-62c326557afb361b52943dd4a8fc141a25262d18.jar" />
+    </item>
+    <item
+        jar="/home/sorrentinos/programmazione/Android/StudioProjects/NFCClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/sorrentinos/programmazione/Android/StudioProjects/NFCClient/app/build/intermediates/pre-dexed/debug/classes-eff3af08179f430ca901919b0cfc666a7eab7852.jar" />
+    </item>
+    <item
+        jar="/home/sorrentinos/programmazione/Android/StudioProjects/NFCClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/sorrentinos/programmazione/Android/StudioProjects/NFCClient/app/build/intermediates/pre-dexed/debug/classes-71a783051f768ccfd038f335726e80b99dec01c5.jar" />
+    </item>
+
+</items>
